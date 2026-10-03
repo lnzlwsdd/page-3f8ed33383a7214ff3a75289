@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "a250c4d82bbbc2e10e7fa5ad",
+  "owner": "lnzlwsdd",
+  "repo": "page-3f8ed33383a7214ff3a75289",
+  "title": "pass",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3f8ed33383a7214ff3a75289",
+      "a": "pass",
+      "b": "",
+      "entity": "pass",
+      "brand": "pass",
+      "separator": "",
+      "path": "index.html",
+      "hash": "ca9e7be64c3e330f853117af0b0a3a147e752de51b7e528338edd629ebd54692",
+      "content": {
+        "keyword1": "pass",
+        "keyword2": "",
+        "primary_entity": "pass",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "pass提供稳定的机场订阅与VPN网络加速服务，覆盖多套餐流量与设备额度，并说明客户端下载与配置流程，便于用户在官网完成接入。",
+          "AI_DESCRIPTION": "pass提供稳定的机场订阅与VPN网络加速服务，覆盖多套餐流量与设备额度，并说明客户端下载与配置流程，便于用户在官网完成接入。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}html{font-size:16px;-webkit-text-size-adjust:100%}body{font-family:\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#f3f0f8;color:#1a1428;line-height:1.75}header{background:#5b21b6;color:#fff;padding:1rem 1.15rem}header .brand{font-size:1.4rem;font-weight:700;letter-spacing:.02em}nav{display:flex;flex-wrap:wrap;gap:.65rem .9rem;margin-top:.8rem}nav a{color:#f3e8ff;text-decoration:none;font-size:.95rem}main{max-width:740px;margin:0 auto;padding:1.1rem 1rem 2.4rem}h1{font-size:1.72rem;color:#4c1d95;margin:1rem 0 .7rem;line-height:1.35;word-wrap:break-word}h2{font-size:1.32rem;color:#5b21b6;margin:2rem 0 .7rem;padding-bottom:.35rem;border-bottom:2px solid #ddd6fe}h3{font-size:1.08rem;color:#4c1d95;margin:1.15rem 0 .45rem}p{margin:.62rem 0;color:#2d2640;word-wrap:break-word}ul,ol{padding-left:1.2rem;margin:.45rem 0}li{margin:.28rem 0}a{color:#5b21b6}.lead{font-size:1.04rem}.cards{display:flex;flex-direction:column;gap:.95rem;margin:1rem 0}.card{background:#fff;border:1px solid #e4dff2;border-radius:12px;padding:1.05rem 1.15rem}.card.featured{border:2px solid #7c3aed;background:#faf7ff}.tag{display:inline-block;background:#5b21b6;color:#fff;font-size:.75rem;padding:.12rem .5rem;border-radius:999px;margin-bottom:.35rem}.price{font-size:1.38rem;font-weight:700;color:#5b21b6}.annual{color:#6b5f80;font-size:.9rem;margin-top:.15rem}.steps{margin:1rem 0}.step{background:#fff;border-left:4px solid #7c3aed;padding:1rem 1rem 1rem 1.05rem;margin:.8rem 0;border-radius:0 10px 10px 0}.step h3{margin-top:0}.num{display:inline-block;background:#5b21b6;color:#fff;border-radius:999px;min-width:1.55rem;height:1.55rem;text-align:center;line-height:1.55rem;font-size:.82rem;margin-right:.4rem;font-weight:700}details{background:#fff;border:1px solid #e4dff2;border-radius:10px;padding:.85rem 1rem;margin:.62rem 0}summary{font-weight:600;color:#4c1d95}details p{margin:.55rem 0 .15rem}.panel{background:#fff;border:1px solid #e4dff2;border-radius:12px;padding:1rem 1.1rem;margin:1rem 0}.ad{background:#ede9fe;border-radius:12px;padding:1rem 1.1rem;margin:1.4rem 0}.friends a{display:inline-block;margin:.25rem .7rem .25rem 0;color:#5b21b6;text-decoration:underline}footer{max-width:740px;margin:0 auto;padding:0 1rem 2rem;color:#6b5f80;font-size:.9rem}footer a{color:#5b21b6}</style><header><div class=\"brand\">pass</div><nav><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#links\">友链</a><a href=\"#sitemap\">站点地图</a></nav></header><main><h1>pass 官方网站：机场订阅与 VPN 网络加速</h1><p class=\"lead\">pass 面向需要稳定跨境访问的个人与团队，提供可订阅的机场节点、多端客户端接入说明，以及按流量与设备数划分的加速方案。本页集中说明官网套餐、使用场景和从下载到连上节点的配置流程，方便你对照完成接入。</p><section id=\"intro\"><h2>品牌简介</h2><p>pass 是以订阅为核心的网络加速服务。用户按套餐获取专属订阅地址，再在常用客户端中导入，即可按需切换节点。服务覆盖日常网页访问、流媒体播放、远程办公以及游戏加速等需求，强调线路可理解、步骤可复用，而不是把配置藏在术语里。</p><p>在 pass 官网，你可以先对照套餐额度选择基础版、旗舰版或团队版，再按下方纵向步骤完成客户端下载、订阅导入与节点选择。年付按十个月价格结算，适合已经确认长期使用的用户；月付适合先小范围验证延迟与解锁效果。</p><p>pass 不绑定单一软件品牌：桌面端常见 Clash / Mihomo、v2rayN，iOS 常见 Shadowrocket、Stash，Android 常见 Clash Meta 系客户端，均可使用同一订阅。重点是订阅更新成功、规则与分流设置正确，而不是更换无数个安装包。</p></section><section id=\"plans\"><h2>pass 机场套餐</h2><p>三档套餐共用同一套配置流程，差异主要在流量、同时在线设备、流媒体解锁范围与工单优先级。以下价格与权益以本页公示为准。</p><div class=\"cards\"><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"card featured\"><p class=\"tag\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div><p>选择套餐时先估算同时在线设备和高峰流量：轻度浏览与邮件协作选基础版即可；需要稳定看剧、开会或打游戏，优先旗舰版；工作室或多成员共用同一订阅，再考虑团队版的设备数与定制路由。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>跨境办公与云协作</h3><p>访问代码托管、设计协作、网盘与视频会议时，pass 可用于降低超时与中断。建议办公设备单独导入订阅，并在客户端里把国内常用域名走直连，把会议与云服务走代理，避免所有流量挤在一条线路上。</p><h3>流媒体与内容访问</h3><p>旗舰版强调全节点原生流媒体解锁，适合对地区库有明确需求的用户。播放前先更新订阅，选择标注流媒体的节点，并确认客户端没有错误的广告拦截或过期规则导致片源失败。</p><h3>游戏与实时对战</h3><p>旗舰版含 IPLC 专线游戏加速优化。游戏场景下优先固定一条延迟稳定的专线，而不是频繁自动切换。团队赛或语音同时开启时，注意设备数不要超过套餐上限。</p><h3>多设备与家庭共享</h3><p>手机、电脑、平板同时在线时，基础版最多 3 台，旗舰版 5 台，团队版 20 台。超出后新设备可能无法握手，应先在已登录设备中断开闲置会话，而不是反复重装客户端。</p><h3>小团队统一出口</h3><p>团队版支持企业定制路由，可以把办公网段、开发环境与个人娱乐流量分开。建议由一人维护订阅更新，其他成员只导入配置，减少规则冲突。</p></section><section id=\"guide\"><h2>配置流程</h2><p>pass 的接入可以看成五步：确认套餐、下载客户端、导入订阅、选择节点、检查分流。按顺序做完，一般不必反复卸载重装。</p><div class=\"steps\"><article class=\"step\"><h3><span class=\"num\">1</span>确认套餐并保存订阅地址</h3><p>在官网完成套餐开通后，进入用户中心复制订阅链接。链接相当于节点清单的钥匙，不要发到公开群组。若只是试用，可先选月付基础版，确认延迟与解锁后再改年付或升级旗舰版。</p></article><article class=\"step\"><h3><span class=\"num\">2</span>按系统下载兼容客户端</h3><p>Windows 可用 v2rayN 或 Clash 系；macOS 可用 Clash Verge 等；Android 可用 Clash Meta 相关应用；iOS 常用 Shadowrocket 或 Stash。客户端本身请从对应软件的官方渠道获取，pass 提供的是订阅与节点，而不是替代各系统商店。</p></article><article class=\"step\"><h3><span class=\"num\">3</span>导入订阅并更新一次</h3><p>打开客户端的订阅或配置页，粘贴 pass 订阅地址，执行更新。成功后应看到节点列表与流量信息。若更新失败，先检查复制是否带了多余空格，再确认设备时间准确，避免证书校验异常。</p></article><article class=\"step\"><h3><span class=\"num\">4</span>选择节点并打开系统代理</h3><p>浏览类需求可选低延迟普通节点；看剧选流媒体解锁节点；游戏选 IPLC 或游戏优化线路。开启系统代理或 VPN 模式后，用浏览器访问目标站点验证。同一时刻只开一个主客户端，避免双代理叠层。</p></article><article class=\"step\"><h3><span class=\"num\">5</span>设置分流并做一次连通检查</h3><p>建议国内站点直连、跨境流量走代理。检查项包括：订阅能否再次更新、IP 是否变化、视频能否起播、会议是否卡顿。若只有个别网站失败，优先换节点或更新规则，而不是立刻更换套餐。</p></article></div></section><section id=\"download\"><h2>客户端下载与导入要点</h2><div class=\"panel\"><h3>桌面端</h3><p>把 pass 订阅填入客户端的 Remote Config / 订阅栏，开启自动定期更新。TUN 或系统代理模式二选一即可。公司电脑若有安全软件拦截虚拟网卡，可先用系统代理模式完成验证。</p><h3>移动端</h3><p>iOS 导入后建议开启按需连接，减少后台耗电。Android 注意电池优化不要杀掉客户端。多设备共用时，在各端使用同一订阅，但不要超过套餐在线台数。</p><h3>规则与分流</h3><p>默认规则通常已覆盖常见国内直连。若你有固定办公域名，可在客户端自定义规则里写成 DIRECT。游戏加速时关闭不必要的全局拦截，以免语音与匹配服务器被误判。</p></div></section><section id=\"faq\"><h2>常见问题</h2><details><summary>pass 是什么？和普通 VPN 有何不同？</summary><p>pass 以机场订阅的方式提供节点池，用户用自己的客户端导入配置。它强调可更换节点、可按套餐扩容设备与流量，而不是单一 App 内不可见的线路。对需要自己管理分流规则的人更合适。</p></details><details><summary>pass 官网如何完成客户端下载？</summary><p>本站说明各系统兼容客户端类型，安装包请到对应软件的官方来源获取，再用 pass 订阅链接导入。这样可以及时拿到客户端安全更新，同时保留 pass 节点与套餐权益。</p></details><details><summary>订阅导入后没有节点怎么办？</summary><p>依次检查链接是否完整、客户端是否点击更新、系统时间是否正确、本地网络是否拦截了订阅域名。仍失败时，换一个网络环境再更新一次。不要把过期截图里的旧链接反复粘贴。</p></details><details><summary>基础版、旗舰版、团队版该怎么选？</summary><p>个人轻度访问选基础版 100GB / 3 台设备。需要原生流媒体、游戏 IPLC 和优先工单选旗舰版。多人共用、需要 20 台设备或定制路由选团队版。流量先按一个月真实使用估算，避免只看峰值宣传。</p></details><details><summary>年付和月付有什么区别？</summary><p>年付价格按十个月计算，例如基础版年付 ¥150、旗舰版 ¥350、团队版 ¥850，权益与对应月付套餐一致。尚未确定使用频率时建议先月付，确认节点质量与解锁范围后再改年付。</p></details><details><summary>流媒体打不开或提示地区限制如何处理？</summary><p>先更新订阅，改用标注解锁的节点，清掉播放器缓存后再试。旗舰版强调全节点原生解锁，基础版仅覆盖基础流媒体。若仅某一个平台失败，多半是节点被识别，换同区域其他节点即可。</p></details><details><summary>超过设备上限会怎样？</summary><p>基础版 3 台、旗舰版 5 台、团队版 20 台同时在线。超出后新会话可能无法连接。请在闲置设备上断开，或升级套餐。反复重装客户端不会增加额度。</p></details></section><section class=\"ad\" id=\"ads\"><h2>合作与公告</h2><p>pass 官网信息发布与套餐说明以本页为准。如需商务合作、团队版定制路由或批量开通，请通过站内工单联系客户经理。本区域为文字合作位，不跳转外部脚本资源。</p><p><a href=\"#plans\">查看套餐对照</a> · <a href=\"#guide\">回到配置流程</a> · <a href=\"#faq\">阅读 FAQ</a></p></section><section id=\"links\"><h2>友情链接</h2><p class=\"friends\"><a href=\"#\">客户端兼容说明</a><a href=\"#guide\">配置流程速查</a><a href=\"#download\">官方下载指引</a><a href=\"#faq\">机场订阅问答</a><a href=\"#plans\">pass 套餐</a></p></section><section id=\"sitemap\"><h2>站点地图</h2><p><a href=\"#intro\">品牌简介</a> · <a href=\"#plans\">套餐</a> · <a href=\"#scenes\">使用场景</a> · <a href=\"#guide\">配置流程</a> · <a href=\"#download\">客户端下载</a> · <a href=\"#faq\">常见问题</a> · <a href=\"#ads\">合作公告</a> · <a href=\"#links\">友链</a></p></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><p>pass 官方网站 · 机场订阅与网络加速客户端说明</p><p><a href=\"#\">返回顶部</a> · <a href=\"#sitemap\">站点地图</a></p><p>© pass 保留品牌名称与套餐公示。页面仅提供接入与使用说明，不含评分或用户评论模块。</p></footer>",
+          "hash": "14eb03031faa3a88ebe3240c12e08146ce70b02e01b6beef269d73b1b486310e",
+          "seo": {
+            "title": "pass官网｜pass机场订阅、VPN加速器与客户端下载",
+            "keywords": "pass,pass机场,pass VPN,机场订阅,网络加速器,梯子,客户端下载,官网下载",
+            "description": "pass提供稳定的机场订阅与VPN网络加速服务，覆盖多套餐流量与设备额度，并说明客户端下载与配置流程，便于用户在官网完成接入。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "czccr.cn",
+    "host": "p-9084b84003.czccr.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "czccr.cn",
+      "url": "https://czccr.cn/",
+      "label": "奇异のtravel",
+      "apex": "czccr.cn",
+      "kind": null,
+      "identity": "cracnqq/page-84cd34201e82b5bd926b3d08"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "55200decf01a1c2f135c466021b2729ca84b9e98b99125475e13cf9033bdda81",
+    "sitemap.xml": "887070d6b16dfd5745b72b0760eb78b7fef3ae62f888139407debb77e0df3c60",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4d6afc1db7e337147f344800a96df7c86970be04614a65270935b6f0ea7dd709",
+    "robots.txt": "7f5aa30ce530952f6fb8584a735b5f0d3bc68805f4e80b759073d9f4305fee44",
+    "3c00547073d51c98336477b2ed4f9680.txt": "ebe4d101bce76b9c8b08f558c45cd32637c971f9739a57064b156a23d617d323"
+  },
+  "revision": "3f70cd2e2c9a3e97236156bb6fd9c49c39837e722a1f1f3273e10a3d9ceb4f7a"
+}
